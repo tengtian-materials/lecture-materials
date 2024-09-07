@@ -40,6 +40,6 @@ if submit_btn:
     
 if __name__ == '__main__':
   print(solarTerm_and_date(1989))
-  print(cal_days(1989,2,31))
+  print(cal_days(1989,2,24))
  
   
