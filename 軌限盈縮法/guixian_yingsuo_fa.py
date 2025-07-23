@@ -25,3 +25,5 @@ if submit_btn:
     except ValueError:
             st.write('数字を入力してください')
 
+if __name__ == '__main__':
+    
